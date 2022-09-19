@@ -1,0 +1,3 @@
+# wrykidexploits
+
+roblox exploit things
